@@ -16,11 +16,11 @@ This project is a simple Discord bot that can fetch domain WHOIS and DNS informa
 ## Installation
 - Clone the repository:
 ```
-git clone https://github.com/yourusername/domain-information-discord-bot.git
+git clone https://github.com/emresavas/domain-tools-discord-bot.git
 ```
 - Change to the project directory:
 ```
-cd domain-information-discord-bot
+cd domain-tools-discord-bot
 ```
 - Install the required packages:
 ```

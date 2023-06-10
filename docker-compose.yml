@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  discord_bot:
+    build: .
+    image: discord_bot:latest
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    command: python3 bot.py
